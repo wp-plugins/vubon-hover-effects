@@ -97,7 +97,7 @@ Another important thing to remember is that the image must always have its width
 
 
 <p>
-2. You will see the Hover information option panel with <strong>Field 5</strong>
+2. You will see the Hover information option panel with <strong>3 fields</strong>
 </p>
 
 <p>
@@ -130,7 +130,7 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 <p>8. In your <strong>Post/Page Editor</strong> you will see a blue button within your editor.</p>
 
 
-<p>9. Put Any Title On Title field, click the <strong>Rd hover Item Shortcode Button</strong>, you will then see a Box open with a <strong>ShortCode Option Panel.</strong>
+<p>9. Put Any Title On Title field, click the <strong>vubon hover Item Shortcode Button with green Icon</strong>, you will then see a Box open with a <strong>ShortCode Option Panel.</strong>
 </p>
 
 
