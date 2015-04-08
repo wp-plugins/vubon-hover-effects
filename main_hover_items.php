@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Amazing Image Effects Wordpress
+Plugin Name: Vubon Hover Effects Wordpress
 Plugin URI: http://wpexpert24.com/
-Description: Amazing Image Effects Wordpress allows you to add animation effects to images, when it hovered. Few single effects and more combinations to boost creativity. All effects simulate flash and javascript with pure CSS3 . Each effect on each css and html files.
+Description: Vubon Hover Effects Wordpress allows you to add animation effects to images, when it hovered. Few single effects and more combinations to boost creativity. All effects simulate flash and javascript with pure CSS3 . Each effect on each css and html files.
 Author: RAKIBUR RAHMAN SAGAR
 Author URI: http://wpexpert24.com/
 Version: 1.0
