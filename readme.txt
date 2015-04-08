@@ -165,7 +165,7 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 
 == Screenshots ==
 
-1. Adding Vubon hover item with category
+1. Adding Vubon hover item with category.
 2. You can select which Hover item you want to appear first.  You can also select all of your items and drag to move the order of each up and down in the Custom Post Panel.
 3. click the Vubon hover Item Shortcode Button, you will then see a Box open with a ShortCode Option Panel.
 4. ShortCode Option Panel. Put the same category name which you created before with Vubon hover Item, and select a style. click Insert.
