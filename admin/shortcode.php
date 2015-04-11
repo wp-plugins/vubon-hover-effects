@@ -30,135 +30,135 @@ function vubon_short_ganerator_eff($atts){
 		if ($style==style1) {
 		
 		$output .= '
-					<figure class="effect-lily">
+					<vubon_figure class="effect-lily" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<div>
 								<h2>'.$info['title'].'</h2>
 								<p>'.$info['desc'].'</p>
 							</div>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		
 		if ($style==style2) {
 		
 		$output .= '
-					<figure class="effect-sadie">
+					<vubon_figure class="effect-sadie" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		if ($style==style3) {
 		
 		$output .= '
-					<figure class="effect-layla">
+					<vubon_figure class="effect-layla" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		if ($style==style4) {
 		
 		$output .= '
-					<figure class="effect-oscar">
+					<vubon_figure class="effect-oscar" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		if ($style==style5) {
 		
 		$output .= '
-					<figure class="effect-marley">
+					<vubon_figure class="effect-marley" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		
 		if ($style==style6) {
 		
 		$output .= '
-					<figure class="effect-ruby">
+					<vubon_figure class="effect-ruby" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		if ($style==style7) {
 		
 		$output .= '
-					<figure class="effect-roxy">
+					<vubon_figure class="effect-roxy" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		if ($style==style8) {
 		
 		$output .= '
-					<figure class="effect-bubba">
+					<vubon_figure class="effect-bubba" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		if ($style==style9) {
 		
 		$output .= '
-					<figure class="effect-romeo">
+					<vubon_figure class="effect-romeo" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		if ($style==style10) {
 		
 		$output .= '
-					<figure class="effect-dexter">
+					<vubon_figure class="effect-dexter" id="vubon_bor_box">
 						<img src="'.$info['imgup_1'].'"/>
-						<figcaption>
+						<vubon_figcaption>
 							<h2>'.$info['title'].'</h2>
 							<p>'.$info['desc'].'</p>
 							<a href="#"></a>
-						</figcaption>			
-					</figure>
+						</vubon_figcaption>			
+					</vubon_figure>
 				';
 		}
 		
