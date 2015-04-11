@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Vubon Hover Effects Wordpress Plugin is an impressive hover effects powered by pure CSS3 techniques including 3D translate and Great amazing Hover elements.  Easy to use the beautiful amazing Image Hover Effects for your website.
 
+Plugin Live Preview : http://demo.wpexpert24.com/vubon-hover-effects-wordpress/
+
 <strong>Features</strong>
 <ul>
 
