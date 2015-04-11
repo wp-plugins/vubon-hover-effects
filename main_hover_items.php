@@ -10,9 +10,9 @@ Version: 1.0
 
 //Loading CSS
 function vubon_stylesheet_effects_csjs() {
-	wp_enqueue_style('main_css_file', plugins_url( '/css/demo.css' , __FILE__ ) );
+	wp_enqueue_style('main_css_file', plugins_url( '/css/vub_dem.css' , __FILE__ ) );
 	wp_enqueue_style('main1_css_file', plugins_url( '/css/normalize.css' , __FILE__ ) );
-	wp_enqueue_style('main2_css_file', plugins_url( '/css/set1.css' , __FILE__ ) );
+	wp_enqueue_style('main2_css_file', plugins_url( '/css/style_one.css' , __FILE__ ) );
 	//wp_enqueue_style('main3_css_file', plugins_url( '/css/set2.css' , __FILE__ ) );
 }
 add_action( 'wp_enqueue_scripts', 'vubon_stylesheet_effects_csjs' );
