@@ -31,6 +31,27 @@ Plugin Live Preview : http://demo.wpexpert24.com/vubon-hover-effects-wordpress/
 
 </ul>
 
+<strong><a target="_blank" href="http://wpexpert24.com/vubon-hover-effects-pro/">Pro Version Features</a></strong>
+<ul>
+
+VUbon Hover Effects Pro Version Features :
+	 
+	<li>External link for each hover item</li>
+	<li>22 Hover Effects</li>
+	<li>Change Font Family With 500+Google Font</li>
+	<li>Custom Font Size For Title</li>
+	<li>Unlimited Hover Items</li>
+	<li>Custom Font Color For Title</li>
+	<li>100% Responsive (ALL Device Support)</li>
+	<li>Space between two items</li>
+	<li>Cross Browser Support (IE)</li>
+	<li>Custom Font Size For Description</li>
+	<li>Custom Font Color For Description</li>
+	<li>Change Unlimited color with Color Picker</li>
+	<li>Open link in new tab</li>
+	<li>24/7 Support</li>
+</ul>
+
 == Installation ==
 
 <p>Installation of <strong>Vubon Hover Effects Wordpress</strong> is very simple.</p>
