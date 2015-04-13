@@ -112,56 +112,100 @@ function vubon_short_ganerator_eff($atts){
 		if ($style==style7) {
 		
 		$output .= '
-					<vubon_figure class="effect-roxy" id="vubon_bor_box">
-						<img src="'.$info['imgup_1'].'"/>
-						<vubon_figcaption>
-							<h2>'.$info['title'].'</h2>
-							<p>'.$info['desc'].'</p>
-							<a href="#"></a>
-						</vubon_figcaption>			
-					</vubon_figure>
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
 				';
 		}
 		if ($style==style8) {
 		
 		$output .= '
-					<vubon_figure class="effect-bubba" id="vubon_bor_box">
-						<img src="'.$info['imgup_1'].'"/>
-						<vubon_figcaption>
-							<h2>'.$info['title'].'</h2>
-							<p>'.$info['desc'].'</p>
-							<a href="#"></a>
-						</vubon_figcaption>			
-					</vubon_figure>
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
 				';
 		}
 		if ($style==style9) {
 		
 		$output .= '
-					<vubon_figure class="effect-romeo" id="vubon_bor_box">
-						<img src="'.$info['imgup_1'].'"/>
-						<vubon_figcaption>
-							<h2>'.$info['title'].'</h2>
-							<p>'.$info['desc'].'</p>
-							<a href="#"></a>
-						</vubon_figcaption>			
-					</vubon_figure>
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
 				';
 		}
 		if ($style==style10) {
 		
 		$output .= '
-					<vubon_figure class="effect-dexter" id="vubon_bor_box">
-						<img src="'.$info['imgup_1'].'"/>
-						<vubon_figcaption>
-							<h2>'.$info['title'].'</h2>
-							<p>'.$info['desc'].'</p>
-							<a href="#"></a>
-						</vubon_figcaption>			
-					</vubon_figure>
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+if ($style==style11) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
 				';
 		}
 		
+		if ($style==style12) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style13) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style14) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style15) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style16) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style17) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style18) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style19) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style20) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style21) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}
+		if ($style==style22) {
+		
+		$output .= '
+<h2 style="color: red;">This Feature Only For Pro Version. If you want to buy Please <a style="color: blue;" href="http://wpexpert24.com/vubon-hover-effects-pro/">Click Here</a></h2>
+				';
+		}					
 		$i++;
 	}
 	
