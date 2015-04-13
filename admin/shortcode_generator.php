@@ -134,7 +134,7 @@ return array(
 					array(
 						'type' => 'select',
 						'name' => 'google_font',
-						'label' => __('Text Font (<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
+						'label' => __('Text Font <br/>(<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
 						'description' => __('Select Font', 'vp_textdomain'),
 						'default' => 'Roboto',
 						'items' => array(
@@ -150,7 +150,7 @@ return array(
 					 array(
 						'type' => 'slider',
 						'name' => 'title_size',
-						'label' => __('Title Font Size (<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
+						'label' => __('Title Font Size <br/>(<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
 						//'description' => __('This slider has minimum value of -10, maximum value of 17.5, sliding step of 0.1 and default value 15.9, everything can be customized.', 'vp_textdomain'),
 						'min' => '1',
 						'max' => '100',
@@ -161,14 +161,14 @@ return array(
 					array(
 						'type'  => 'color',
 						'name'  => 'title_color',
-						'label' => __('Title Font Color (<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
+						'label' => __('Title Font Color <br/>(<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
 						'default' => '#ffffff',
 					),
 					
 					 array(
 						'type' => 'slider',
 						'name' => 'des_size',
-						'label' => __('Description Font Size (<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
+						'label' => __('Description Font Size <br/>(<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
 						//'description' => __('This slider has minimum value of -10, maximum value of 17.5, sliding step of 0.1 and default value 15.9, everything can be customized.', 'vp_textdomain'),
 						'min' => '1',
 						'max' => '100',
@@ -179,7 +179,7 @@ return array(
 					array(
 						'type'  => 'color',
 						'name'  => 'des_color',
-						'label' => __('Description Font Color (<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
+						'label' => __('Description Font Color <br/>(<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
 						'default' => '#ffffff',
 					),
 					
@@ -187,7 +187,7 @@ return array(
 					array(
 						'type' => 'checkbox',
 						'name' => 'link_open',
-						'label' => __('Open In New Tab? (<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
+						'label' => __('Open In New Tab? <br/>(<strong style="color: red">PRO ONLY</strong>)', 'vp_textdomain'),
 						'items' => array(
 							array(
 								'value' => '_blank',
