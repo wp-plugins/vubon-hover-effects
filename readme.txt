@@ -18,7 +18,8 @@ Plugin Live Preview : http://demo.wpexpert24.com/vubon-hover-effects-wordpress/
 
 <li>Easy to use</li>
 <li>No Javascript Pure CSS3</li>
-<li>10 unique hover effects</li>
+<li>6 unique hover effects (Free)</li>
+<li>22 unique hover effects (Pro)</li>
 <li>Compatible for all major browsers</li>
 <li>IE Support</li>
 <li>100% Responsive</li>
@@ -192,6 +193,10 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 5. you will see a Shortcode in your post/page editor just publish and view page.
 
 == Changelog ==
+
+= 1.1 =
+* Fixed Bugs
+* Added pro Feature
 
 = 1.0 =
 * Initial Release
