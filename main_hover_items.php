@@ -5,7 +5,7 @@ Plugin URI: http://wpexpert24.com/
 Description: Vubon Hover Effects Wordpress allows you to add animation effects to images, when it hovered. Few single effects and more combinations to boost creativity. All effects simulate flash and javascript with pure CSS3 . Each effect on each css and html files.
 Author: RAKIBUR RAHMAN SAGAR
 Author URI: http://wpexpert24.com/
-Version: 1.1
+Version: 2
 */
 
 //Loading CSS
@@ -30,28 +30,6 @@ defined( 'VP_AOVPACK_FILE' )    or define( 'VP_AOVPACK_FILE', __FILE__ );
 require 'framework/bootstrap.php';
 
 }
-
-
-// Google Font
-
-    // add the font
-    $font_face = vp_option('logo_font_face');
-    $font_weight = vp_option('vp_get_gwf_weight');
-    $font_style = vp_option('logo_font_style');
-    VP_Site_GoogleWebFont::instance()->add($font_face, $font_weight, $font_style);
-	
-    // embed font function
-    function vubon_google_hov_embd_fonts()
-    {
-    // you can directly enqueue and register
-    VP_Site_GoogleWebFont::instance()->register_and_enqueue();
-    // or register and get the handler to be used as dependency
-    VP_Site_GoogleWebFont::instance()->register();
-    wp_register_style('mystyle', 'path_to_style.css', VP_Site_GoogleWebFont::instance()->get_names());
-    wp_enqueue_style('mystyle');
-    }
-    add_action('wp_enqueue_scripts', 'vubon_google_hov_embd_fonts');
-
 
 // Registering Custom Post
 function vubon_hov_effects_ecpt_rd() {
