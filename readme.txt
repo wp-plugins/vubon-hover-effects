@@ -194,6 +194,14 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 
 == Changelog ==
 
+= 2.1 =
+* Fixed Layout Bugs
+* Fixed Images Size Bug
+
+= 2 =
+* Fixed Bugs
+
+
 = 1.1 =
 * Fixed Bugs
 * Added pro Feature
