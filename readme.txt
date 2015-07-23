@@ -13,6 +13,10 @@ Vubon Hover Effects Wordpress Plugin is an impressive hover effects powered by p
 
 Plugin Live Preview : http://wpexpert24.com/vubon-hover-effects-wordpress/
 
+<strong>Video Tutorial:
+</strong>
+[youtube https://www.youtube.com/watch?v=fozHbTMlHwY]
+
 <strong>Features</strong>
 <ul>
 
