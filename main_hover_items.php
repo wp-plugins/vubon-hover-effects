@@ -5,7 +5,7 @@ Plugin URI: http://wpexpert24.com/
 Description: Vubon Hover Effects Wordpress allows you to add animation effects to images, when it hovered. Few single effects and more combinations to boost creativity. All effects simulate flash and javascript with pure CSS3 . Each effect on each css and html files.
 Author: RAKIBUR RAHMAN SAGAR
 Author URI: http://wpexpert24.com/
-Version: 2.1
+Version: 2.2
 */
 
 //Loading CSS
@@ -17,6 +17,8 @@ function vubon_stylesheet_effects_csjs() {
 }
 add_action( 'wp_enqueue_scripts', 'vubon_stylesheet_effects_csjs' );
 
+// added widgets filters
+add_filter('widget_text', 'do_shortcode');
 
 // Loading VafPress Framework
 if(!class_exists('VP_Amazimagehov')){

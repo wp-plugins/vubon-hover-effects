@@ -1,5 +1,6 @@
 === Vubon Hover Effects Wordpress ===
 Contributors: Rakibur Rahman Sagar
+Donate link: http://wpexpert24.com/vubon-hover-effects-donation-page/
 Tags: hover,hover effect, css3 hover effect, image hover, hover effect wordpress plugin, content image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Stable tag: 1.0
@@ -12,6 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Vubon Hover Effects Wordpress Plugin is an impressive hover effects powered by pure CSS3 techniques including 3D translate and Great amazing Hover elements.  Easy to use the beautiful amazing Image Hover Effects for your website.
 
 Plugin Live Preview : http://wpexpert24.com/vubon-hover-effects-wordpress/
+Documentation: http://wpexpert24.com/tutorials/vubon-hover-effects/ 
 
 <strong>Video Tutorial:
 </strong>
@@ -197,6 +199,9 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 5. you will see a Shortcode in your post/page editor just publish and view page.
 
 == Changelog ==
+
+= 2.2 =
+* Added Widgets Support
 
 = 2.1 =
 * Fixed Layout Bugs
